@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there, it's SG 👋
+
+- 🧠 I’m a cognitive neuroscientist specializing in auditory perception by training.
+- 🎶 Before that, I had an education in Western musical composition.
+- 🤖 I'm currently interested in how computational models can help us understand how musical information is processed in evoking emotions in our brains.
+- 📛 My first name (승구) reads [/sɯŋgu/](http://ipa-reader.xyz/?text=/s%C9%AF%C5%8B-gu/&voice=Joey), of which the first vowel may be difficult to guess from its Romanization. For the sake of unambiguity, I used to ask those who could not learn this Korean vowel to call me "SG" (Es-Gee). Sometimes it doesn't bother me at all. But other times I do appreciate it when people make efforts and finally learn it. I just believe the "true nerd" 🤓 knows how to read IPA, and musicians have good ears.
+- 🤬 Oh yes, apparently, I love venting.
 
 <!--
 **seunggookim/seunggookim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
